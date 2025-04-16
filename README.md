@@ -1,89 +1,31 @@
 ### Обо мне
-Привет! Я Анастасия, специалист по тестированию
 
-<!-- Обложка -->
-<p align="center">
-  <img src="URL_КАРТИНКИ_ИЛИ_ОСТАВЬ_ПУСТО" alt="cover" width="100%" />
-</p>
+Привет! 
+<img src="https://github.com/user-attachments/assets/b3b0c933-43ee-472d-8ba8-846928914021" alt="emoji" height="20" style="vertical-align: middle;" /> Я Анастасия, специалист по тестированию
 
-<!-- Приветствие и краткое о себе -->
-<h1 align="center">Hey, I’m [Твоё имя] 👋</h1>
 
-<p align="center">
-  [твоя профессия] 👩‍💻 с [фон/образование] 🎓 <br>
-  Увлекаюсь 🔥 [чем ты увлекаешься – например, дизайном интерфейсов, структурой кода, тестированием и т.д.] <br>
-  Обожаю 🐾 [хобби или предпочтения: котиков, кофе, исследовать природу] <br>
-  Живу в [город, страна] и открыта для новых проектов и возможностей 🌍
-</p>
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/tja02)](https://t.me/tja02)
+[![Email Badge](https://img.shields.io/badge/-E--mail-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white&link=mailto:chapaikina.ana@gmail.com)](mailto:chapaikina.ana@gmail.com)
 
-<p align="center">
-  <a href="mailto:your_email@example.com">📩 Email Me</a> •
-  <a href="tel:+1234567890">📞 Call Me</a> •
-  <a href="your_resume_link">📄 Resume</a> •
-  <a href="https://www.linkedin.com/in/yourprofile">🔗 LinkedIn</a>
-</p>
+CV
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=wnbrgrn)
+---
+
 
 ---
 
-### 🛠 What I can do for you
-
-| 🎨 **Branding**         | 💡 **Marketing**              | 💻 **Web / App Design**    |
-|------------------------|------------------------------|----------------------------|
-| • Логотипы             | • Посты и реклама для соцсетей | • Лендинги и UI            |
-| • Визуальный стиль     | • Презентации и шаблоны       | • E-commerce страницы      |
-
----
-
-### 📂 Примеры работ
-
-<!-- Заменить на свои проекты с превью, например: -->
 
 |     |     |     |
 |-----|-----|-----|
-| ![project1](ссылка_на_изображение) <br> Проект 1 | ![project2](ссылка_на_изображение) <br> Проект 2 | ![project3](ссылка_на_изображение) <br> Проект 3 |
+| ![Проект 1](https://via.placeholder.com/150) <br> **Название проекта 1** | ![Проект 2](https://via.placeholder.com/150) <br> **Название проекта 2** | ![Проект 3](https://via.placeholder.com/150) <br> **Название проекта 3** |
 
 ---
 
 ### ⚙️ Навыки и технологии
 
-`HTML` • `CSS` • `JavaScript` • `Figma` • `Photoshop` • `Notion` • `GitHub` • `No Code Tools`
+`HTML` • `CSS` • `JavaScript` • `Figma` • `Notion` • `Postman` • `GitHub` • `Framer` • `Tilda`
 
----
-
-### 🧭 Немного обо мне
-
-- 💼 Сейчас работаю над: [текущий проект или идея]
-- 🎯 Цель: [твоя ближайшая цель — например, найти проект, развивать скиллы, изучить новый инструмент]
-- 💬 Всегда рада новым знакомствам и сотрудничеству
-
----
-
-<p align="center">✨ Спасибо, что заглянули! ✨</p>
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-## 📊 Статистика
-
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=wnbrgrn)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=wnbrgrn)
-
-<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
-<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
-
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=wnbrgrn)
-
-<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>
 
@@ -164,8 +106,3 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
-
-<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
