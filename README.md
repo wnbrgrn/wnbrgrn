@@ -1,8 +1,9 @@
 ### Обо мне
 
 Привет! 
-<img src="https://github.com/user-attachments/assets/b3b0c933-43ee-472d-8ba8-846928914021" alt="emoji" height="20" style="vertical-align: middle;" /> Я Анастасия, специалист по тестированию
+<img src="https://github.com/user-attachments/assets/b3b0c933-43ee-472d-8ba8-846928914021" alt="emoji" height="20" style="vertical-align: middle;" /> Я Анастасия, QA Engineer
 
+В свободное время ситтерю кошечков; котомать с большим стажем
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/tja02)](https://t.me/tja02)
 [![Email Badge](https://img.shields.io/badge/-E--mail-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white&link=mailto:chapaikina.ana@gmail.com)](mailto:chapaikina.ana@gmail.com)
