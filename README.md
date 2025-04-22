@@ -92,17 +92,10 @@ CV
 
 <br>
 
-## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
-
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
+[<img src="/certificate.png.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/wnbrgrn/wnbrgrn/refs/heads/main/certificate.png.png)
 
 <br>
 <br>
