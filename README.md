@@ -10,8 +10,44 @@
 
 CV
 
+## 📊 Статистика
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=wnbrgrn" />
+    </td>
+    <td valign="bottom">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?&theme=github-light&username=wnbrgrn" height="240"/>
+    </td>
+  </tr>
+</table>
+ 
+## 📊 Статистика
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=wnbrgrn" style="vertical-align: top;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?&theme=github-light&username=wnbrgrn" height="240" />
+</p>
+
+
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=wnbrgrn" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?&theme=github-light&username=wnbrgrn" alt="Contribution Graph" />
+    </td>
+  </tr>
+</table>
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=wnbrgrn)
 ---
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=github-light&username=wnbrgrn)
 
 
 ---
