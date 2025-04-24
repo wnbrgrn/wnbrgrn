@@ -1,7 +1,7 @@
 ### Обо мне
 
 Привет! 
-<img src="https://github.com/user-attachments/assets/b3b0c933-43ee-472d-8ba8-846928914021" alt="emoji" height="20" style="vertical-align: middle;" /> Я Анастасия, QA Engineer
+Я Анастасия, QA Engineer <img src="https://github.com/user-attachments/assets/b3b0c933-43ee-472d-8ba8-846928914021" alt="emoji" height="20" style="vertical-align: middle;" />
 
 В свободное время ситтерю кошечков; котомать с большим стажем
 
@@ -10,61 +10,20 @@
 
 CV
 
-## 📊 Статистика
+### 📊 Статистика
 
-<table>
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=wnbrgrn" />
     </td>
-    <td valign="bottom">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?&theme=github-light&username=wnbrgrn" height="240"/>
-    </td>
-  </tr>
-</table>
- 
-## 📊 Статистика
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=wnbrgrn" style="vertical-align: top;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?&theme=github-light&username=wnbrgrn" height="240" />
-</p>
-
-
-
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=wnbrgrn" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?&theme=github-light&username=wnbrgrn" alt="Contribution Graph" />
+    <td style="border: none;" valign="bottom">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?&theme=github-light&username=wnbrgrn" height="230" />
     </td>
   </tr>
 </table>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=wnbrgrn)
----
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=github-light&username=wnbrgrn)
-
-
----
-
-
-|     |     |     |
-|-----|-----|-----|
-| ![Проект 1](https://via.placeholder.com/150) <br> **Название проекта 1** | ![Проект 2](https://via.placeholder.com/150) <br> **Название проекта 2** | ![Проект 3](https://via.placeholder.com/150) <br> **Название проекта 3** |
-
----
-
-### ⚙️ Навыки и технологии
-
-`HTML` • `CSS` • `JavaScript` • `Figma` • `Notion` • `Postman` • `GitHub` • `Framer` • `Tilda`
-
-
-<br>
 
 ## Тестирование API и интеграций
 <div>
